@@ -1,3 +1,4 @@
 def countdown
-  counter = log10
+  while count < 0
+  puts 
 end
