@@ -1,4 +1,4 @@
 def countdown
   while count < 0
-  puts "#{"
+  puts "#{count} SECOND(S)!"
 end
